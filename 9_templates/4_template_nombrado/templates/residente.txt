@@ -1,0 +1,8 @@
+{{define "residente"}}
+Formulario Residentes
+
+Nombre: {{.Nombre}}
+Edad: {{.Edad}}
+Pais: {{.Pais}}
+
+{{end}}
